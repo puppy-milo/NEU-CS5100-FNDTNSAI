@@ -1,5 +1,5 @@
 # NEU-CS5100-FNDTNSAI
-
+Use AI to control Pac Man, 4 or 5 assignments using different methods.
 ## Projects Overview
 ### [P0:Unix/Python Tutorial](https://inst.eecs.berkeley.edu/~cs188/fa19/project0/)
 This short UNIX/Python tutorial introduces students to the Python programming language and the UNIX environment.
